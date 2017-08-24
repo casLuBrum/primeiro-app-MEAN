@@ -23,6 +23,10 @@
     "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.8",
     "gulp-watch": "^4.3.11",
-    "gulp-webserver": "^0.9.1"
+    "gulp-webserver": "^0.9.1",
+    "gulp-uglifycss": "^1.0.8"
+  },
+  "dependencies": {
+
   }
 }
